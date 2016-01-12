@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.Cryptography",
+  "version": "1.0.0",
+  "description": "Cryptography class library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/RevStack/Cryptography.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/Cryptography/issues"
+  },
+  "homepage": "https://github.com/RevStack/Cryptography"
+}

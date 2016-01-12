@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Release\RevStack.Cryptography.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Release\RevStack.Cryptography.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Release\RevStack.Cryptography.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Release\RevStack.Cryptography.Resources.resources
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Release\RevStack.Cryptography.vbproj.GenerateResource.Cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Release\RevStack.Cryptography.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Release\RevStack.Cryptography.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Release\RevStack.Cryptography.pdb

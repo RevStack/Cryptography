@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.vbprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.Resources.resources
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.vbproj.GenerateResource.Cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Debug\RevStack.Cryptography.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Debug\RevStack.Cryptography.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\bin\Debug\RevStack.Cryptography.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Cryptography\RevStack.Cryptography\obj\Debug\RevStack.Cryptography.pdb
