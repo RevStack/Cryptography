@@ -2,7 +2,7 @@
   "name": "RevStack.Cryptography",
   "version": "1.0.0",
   "description": "Cryptography class library",
-  "main": "RevStack.Cryptography.sin",
+  "main": "RevStack.Cryptography.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
