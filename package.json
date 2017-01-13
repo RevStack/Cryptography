@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Cryptography",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptography class library",
   "main": "RevStack.Cryptography.sln",
   "scripts": {
